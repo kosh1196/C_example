@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591251416 source:c:\users\user\documents\k\c\vowel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

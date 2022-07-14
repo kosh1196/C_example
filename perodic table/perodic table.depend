@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603169216 source:c:\users\user\documents\k\c\perodic table\main.c
+	<stdio.h>
+	<stdlib.h>
+

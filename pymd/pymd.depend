@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584535642 source:c:\users\user\documents\k\c\pymd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

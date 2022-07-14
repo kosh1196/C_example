@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591685295 source:c:\users\user\documents\k\c\numpym\main.c
+	<stdio.h>
+	<stdlib.h>
+
